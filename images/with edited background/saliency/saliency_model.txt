@@ -1,0 +1,9 @@
+https://docs.opencv.org/3.4/da/dd0/classcv_1_1saliency_1_1StaticSaliencyFineGrained.html#details
+
+Detailed Description
+
+the Fine Grained Saliency approach from [158]
+
+This method calculates saliency based on center-surround differences. High resolution saliency maps are generated in real time by using integral images.
+
+[158] Sebastian Montabone and Alvaro Soto. Human detection using a mobile platform and novel features derived from a visual saliency mechanism. In Image and Vision Computing, Vol. 28 Issue 3, pages 391–402. Elsevier, 2010. https://doi.org/10.1016/j.imavis.2009.06.006
